@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Welcome to My Website</title>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <h1>Welcome to My Website</h1>
+  <p>Hi there! My name is [Your Name], and I created this website to share my journey as I learn how to build websites and explore the world of technology. I'm passionate about digital skills and excited to help others who want to start learning too.</p>
+
+  <p>Here, you’ll find simple tutorials, links to my projects, and helpful tips for beginners. Whether you’re just getting started or looking for motivation, I hope my content inspires you to build something of your own.</p>
+</body>
+</html>

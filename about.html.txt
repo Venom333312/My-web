@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>About Me</title>
+</head>
+<body>
+  <nav>
+    <a href="index.html">Home</a> |
+    <a href="about.html">About</a> |
+    <a href="contact.html">Contact</a>
+  </nav>
+
+  <h1>About Me</h1>
+  <p>Hello! I'm Boitumelo, the creator of this website. I'm currently learning web development and exploring how websites are built and shared online. I enjoy working with HTML, CSS, and experimenting with new features like contact forms and navigation menus.</p>
+
+  <p>This site is my personal learning space, but I also hope it becomes helpful to others. If you're just starting to build websites, you're not alone — I'm on the same journey!</p>
+</body>
+</html>
